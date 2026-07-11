@@ -1,7 +1,7 @@
 # DeskPilot Changelog
 
-**Version:** v1.0  
-**Created:** 2026-07-12  
+**Version:** v1.1
+**Created:** 2026-07-12
 **Last Updated:** 2026-07-12
 
 ---
@@ -23,8 +23,20 @@
 
 ---
 
+# v0.1.1 — Workspace Strategy Update
+
+**Date:** 2026-07-12
+
+## Updated
+
+- Brand philosophy changed to Workspace-first.
+- Project context updated.
+- Project memory updated.
+- Roadmap updated.
+- Decision log updated.
+
+---
+
 ## Status
 
-Project foundation completed.
-
-Ready to begin website planning and development.
+Ready to begin website architecture planning.
