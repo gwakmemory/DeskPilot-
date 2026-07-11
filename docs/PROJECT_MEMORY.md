@@ -1,56 +1,60 @@
 # DeskPilot Project Memory
 
-**Version:** v1.0  
-**Created:** 2026-07-12  
+**Version:** v1.1
+**Created:** 2026-07-12
 **Last Updated:** 2026-07-12
 
 ---
 
 ## Purpose (목적)
 
-This document stores important knowledge, principles, and ideas that should never be forgotten during the DeskPilot project.
+This document stores the long-term knowledge, principles, and decisions that define the DeskPilot brand.
 
-(이 문서는 DeskPilot 프로젝트에서 절대 잊으면 안 되는 중요한 지식과 원칙을 기록한다.)
-
----
-
-## Brand Identity
-
-DeskPilot is not just an affiliate website.
-
-DeskPilot is building a trusted brand for workspace recommendations.
-
-(DeskPilot는 단순한 제휴 마케팅 사이트가 아니라 신뢰받는 브랜드를 만든다.)
+(이 문서는 DeskPilot 브랜드의 장기적인 지식, 원칙, 그리고 반드시 기억해야 할 내용을 기록한다.)
 
 ---
 
-## Long-Term Philosophy
+# Brand Identity
+
+DeskPilot is a workspace-first brand.
+
+We help people create smarter, more comfortable, and more productive workspaces.
+
+Products are tools—not the final goal.
+
+(DeskPilot는 제품을 판매하는 브랜드가 아니라 더 나은 업무 공간을 만드는 브랜드다.)
+
+---
+
+# Long-Term Philosophy
 
 Trust comes before revenue.
 
-Every recommendation should genuinely help the reader.
+Workspace comes before products.
 
-Long-term growth is more important than short-term profit.
+Quality comes before quantity.
+
+Long-term growth comes before short-term profit.
 
 ---
 
-## Current Business Model
+# Current Business Model
 
-Starting Point
+Current
 
-Amazon Associates
+- Amazon Associates
 
-Future Expansion
+Future
 
 - Display Advertising
 - Newsletter
-- AI Services
+- AI Workspace Tools
 - SaaS
 - Digital Products
 
 ---
 
-## Target Market
+# Target Market
 
 Country
 
@@ -64,29 +68,38 @@ Audience
 
 ---
 
-## Content Principles
+# Content Principles
 
-Every article should answer a real question.
+Every article should solve a real problem.
 
-Recommend products based on research.
+Recommend products only after research.
 
-Never create unnecessary AI-generated content.
+Workspace Guides are our flagship content.
 
-Focus on quality instead of quantity.
+Reviews support Workspace Guides.
+
+Never publish low-quality AI-generated content.
 
 ---
 
-## Important Decisions to Remember
+# Core Content Strategy
+
+Our content should help readers build complete workspaces instead of buying individual products.
+
+Each Workspace Guide should naturally recommend multiple useful products.
+
+---
+
+# Important Decisions
 
 - Brand Name: DeskPilot
+- Target Market: United States
 - Primary Language: English
-- Target Country: United States
-- Initial Revenue Model: Amazon Associates
+- Workspace-first philosophy
+- Amazon Associates is the first monetization strategy
 
 ---
 
-## Notes
+# Notes
 
-This document should grow over time.
-
-Only important information that must be remembered belongs here.
+Only information that should never be forgotten belongs in this document.
