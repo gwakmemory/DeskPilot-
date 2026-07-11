@@ -1,20 +1,7 @@
-Day 1
-
-오늘 한 일
-
-오늘 배운 점
-
-오늘 결정한 것
-
-느낀 점
-
-다음 목표
-
-
 # DeskPilot Founder Journal
 
-**Version:** v1.0  
-**Created:** 2026-07-12  
+**Version:** v1.1
+**Created:** 2026-07-12
 **Last Updated:** 2026-07-12
 
 ---
@@ -26,30 +13,27 @@ Day 1
 ## Today's Progress
 
 - Created the GitHub repository.
-- Built the documentation structure.
+- Built the documentation system.
 - Defined the DeskPilot brand.
-- Started building the project documentation.
+- Established the Workspace-first philosophy.
+- Completed Documentation v1.1.
 
 ---
 
-## What We Learned
+## Key Insight
 
-Building a long-term brand is more important than building a website quickly.
+DeskPilot is not an affiliate website.
 
-Documentation helps preserve ideas, decisions, and project direction.
+DeskPilot is a workspace brand.
 
----
-
-## Decisions Made
-
-- Brand Name: DeskPilot
-- Primary Market: United States
-- Initial Business Model: Amazon Associates
+Helping readers create better workspaces is more important than simply recommending products.
 
 ---
 
-## Next Steps
+## Next Goal
 
-- Complete project documentation.
-- Build the website structure.
-- Start homepage development.
+Design the website structure.
+
+Plan the homepage.
+
+Start building the first version of DeskPilot.
