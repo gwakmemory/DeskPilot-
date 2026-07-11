@@ -1,41 +1,40 @@
-DeskPilot가 어떤 프로젝트인지
-왜 만들었는지
-타깃 고객
-브랜드 철학
-지금까지의 주요 결정
-앞으로의 목표
-
 # DeskPilot Project Context
 
-**Version:** v1.0  
-**Created:** 2026-07-12  
+**Version:** v1.1
+**Created:** 2026-07-12
 **Last Updated:** 2026-07-12
 
 ---
 
 ## Project Overview
 
-DeskPilot is a long-term media brand focused on helping office professionals build better workspaces through trustworthy recommendations.
+DeskPilot is a long-term workspace media brand.
 
-The project starts as an Amazon Associates website and is designed to grow into a trusted workspace brand.
+Our mission is to help office professionals build better workspaces through trustworthy recommendations.
+
+Amazon Associates is the first monetization method, not the final goal.
 
 ---
 
 ## Current Goal
 
-Launch a high-quality affiliate website for the U.S. market.
+Launch a high-quality website for the U.S. market.
 
-Generate the first Amazon Associates revenue.
+Publish valuable workspace guides.
+
+Generate the first Amazon Associates commission.
 
 ---
 
 ## Long-Term Goal
 
-Expand beyond affiliate marketing into:
+Build the most trusted workspace brand.
 
-- AI tools
+Future expansion includes:
+
+- AI Tools
 - SaaS
-- Digital products
+- Digital Products
 - Newsletter
 - Community
 
@@ -62,8 +61,8 @@ Current
 Future
 
 - Display Ads
-- Digital Products
 - Newsletter Sponsorship
+- Digital Products
 - AI Services
 
 ---
@@ -86,27 +85,28 @@ Planned
 
 ## Project Principles
 
-- Build a brand before chasing revenue.
+- Workspace before products.
+- Trust before profit.
 - Help readers first.
 - Every important decision must be documented.
-- Always think long-term.
+- Think long-term.
 
 ---
 
 ## Current Status
 
-✅ GitHub Repository Created
+✅ Documentation System Completed
 
-✅ Documentation Started
+🚧 Website Planning
 
-🚧 Website Development Not Started
+⏳ Website Development
 
 ---
 
 ## AI Context
 
-When continuing this project, always prioritize long-term brand building over short-term affiliate revenue.
+DeskPilot is not a product review website.
 
-Keep branding, SEO, UX, and documentation consistent.
+DeskPilot is a workspace brand.
 
-If unsure, choose the option that strengthens DeskPilot's trust.
+Products are tools to build better workspaces.
