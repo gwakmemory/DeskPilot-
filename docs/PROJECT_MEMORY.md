@@ -1,4 +1,4 @@
-# DeskPilot Project Memory
+# DeskPilot Roadmap
 
 **Version:** v1.1
 **Created:** 2026-07-12
@@ -6,100 +6,100 @@
 
 ---
 
-## Purpose (목적)
+# Phase 1 — Foundation
 
-This document stores the long-term knowledge, principles, and decisions that define the DeskPilot brand.
+Status: ✅ Completed
 
-(이 문서는 DeskPilot 브랜드의 장기적인 지식, 원칙, 그리고 반드시 기억해야 할 내용을 기록한다.)
-
----
-
-# Brand Identity
-
-DeskPilot is a workspace-first brand.
-
-We help people create smarter, more comfortable, and more productive workspaces.
-
-Products are tools—not the final goal.
-
-(DeskPilot는 제품을 판매하는 브랜드가 아니라 더 나은 업무 공간을 만드는 브랜드다.)
+- [x] Brand name selected
+- [x] GitHub repository created
+- [x] Documentation system completed
+- [x] Workspace-first strategy defined
 
 ---
 
-# Long-Term Philosophy
+# Phase 2 — Planning
 
-Trust comes before revenue.
+Status: 🚧 In Progress
 
-Workspace comes before products.
-
-Quality comes before quantity.
-
-Long-term growth comes before short-term profit.
-
----
-
-# Current Business Model
-
-Current
-
-- Amazon Associates
-
-Future
-
-- Display Advertising
-- Newsletter
-- AI Workspace Tools
-- SaaS
-- Digital Products
+- [ ] Finalize website structure
+- [ ] Design homepage
+- [ ] Design Workspace Guide page
+- [ ] Plan category structure
+- [ ] Set up development environment
 
 ---
 
-# Target Market
+# Phase 3 — Website Development
 
-Country
+Status: ⏳ Planned
 
-United States
-
-Audience
-
-- Office Professionals
-- Remote Workers
-- Home Office Users
-
----
-
-# Content Principles
-
-Every article should solve a real problem.
-
-Recommend products only after research.
-
-Workspace Guides are our flagship content.
-
-Reviews support Workspace Guides.
-
-Never publish low-quality AI-generated content.
+- [ ] Homepage
+- [ ] Workspace Guide page
+- [ ] Product Review page
+- [ ] Comparison page
+- [ ] Category page
+- [ ] About page
 
 ---
 
-# Core Content Strategy
+# Phase 4 — Content
 
-Our content should help readers build complete workspaces instead of buying individual products.
+Status: ⏳ Planned
 
-Each Workspace Guide should naturally recommend multiple useful products.
-
----
-
-# Important Decisions
-
-- Brand Name: DeskPilot
-- Target Market: United States
-- Primary Language: English
-- Workspace-first philosophy
-- Amazon Associates is the first monetization strategy
+- [ ] Publish first Workspace Guide
+- [ ] Publish first Review
+- [ ] Publish first Comparison
+- [ ] Publish first Best Picks article
 
 ---
 
-# Notes
+# Phase 5 — SEO
 
-Only information that should never be forgotten belongs in this document.
+Status: ⏳ Planned
+
+- [ ] Google Search Console
+- [ ] Sitemap
+- [ ] Internal linking
+- [ ] Metadata optimization
+- [ ] First indexed pages
+
+---
+
+# Phase 6 — Monetization
+
+Status: ⏳ Planned
+
+- [ ] Amazon Associates approval
+- [ ] Affiliate links
+- [ ] First affiliate commission
+- [ ] Monthly recurring revenue
+
+---
+
+# Phase 7 — Growth
+
+Status: 🔒 Future
+
+- [ ] Newsletter
+- [ ] Workspace newsletter
+- [ ] AI recommendation tools
+- [ ] Digital products
+- [ ] SaaS
+
+---
+
+# Success Milestones
+
+✅ Documentation System
+
+🎯 First Website Online
+
+🎯 First Google Indexed Page
+
+🎯 First Amazon Commission
+
+🎯 First $100
+
+🎯 First $1,000 / Month
+
+🎯 Become the most trusted workspace brand
