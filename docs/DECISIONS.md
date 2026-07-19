@@ -84,3 +84,15 @@ Workspace Guides will become the flagship content of DeskPilot.
 They naturally combine multiple products into one helpful solution.
 
 Readers are looking for complete workspace ideas, not just individual product reviews.
+
+# Decision-006
+
+Every content type should connect to other relevant content instead of existing in isolation.
+
+#(모든 콘텐츠는 독립적으로 존재하는 것이 아니라, 다른 관련 콘텐츠와 자연스럽게 연결되어야 한다.)
+
+# Decision-007
+
+Workspace Guides are organized by multiple dimensions: Job, Purpose, Space, and Budget.
+
+(Workspace Guide는 직업, 목적, 공간, 예산이라는 여러 축으로 확장한다.)
